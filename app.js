@@ -7,3 +7,14 @@ const movies = () => {
 }
 
 export default movies
+
+
+
+const starWars = props => {
+  return (
+    <div>starWars</div>
+  )
+}
+
+starWars.propTypes = {}
+

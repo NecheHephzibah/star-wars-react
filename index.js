@@ -27,17 +27,6 @@ Host your work on Netlify/Github Pages and submit the hosted link
 
 */
 
-import React from 'react'
-import PropTypes from 'prop-types'
 
-const starWars = props => {
-  return (
-    <div>starWars</div>
-  )
-}
-
-starWars.propTypes = {}
-
-export default starWars
 
 
